@@ -12,4 +12,4 @@ pip install colorgram.py
 ```
 
 Here's what the dot pattern looks like:
-![dot_pattern](https://user-images.githubusercontent.com/89556233/228986509-268a8fce-8246-43cd-a19b-e0b3e1a57f7a.gif =400x400)
+![dot_pattern](https://user-images.githubusercontent.com/89556233/228986509-268a8fce-8246-43cd-a19b-e0b3e1a57f7a.gif)
