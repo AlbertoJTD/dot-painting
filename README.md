@@ -1,4 +1,5 @@
 # Dots painting 🎨
+`Python 3.11.1`
 
 This is a dots painting generator that takes the colors from an image and then uses to create a pattern dots
 
